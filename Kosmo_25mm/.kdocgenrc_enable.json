@@ -1,8 +1,0 @@
-{
-    "enabled": [
-        "pcb_svg",
-        "pcb_pdf",
-        "gerbers",
-	"readme"
-    ]
-}
